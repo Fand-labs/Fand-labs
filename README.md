@@ -1,16 +1,21 @@
-## Hi there 👋
+# Fand-labs
 
-<!--
-**Fand-labs/Fand-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laboratório independente de desenvolvimento de software, ferramentas, automações e soluções open source.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linux App Manager** — Gerenciador gráfico de aplicativos Linux com suporte a APT, Flatpak e Snap.
+- **Linux Desktop Dev Environment** — Ambiente de desenvolvimento para aplicações desktop Linux.
+- **Havit Fuxi Linux Mint** — Correção de problemas de áudio no Linux Mint.
+
+## Tecnologias
+
+Python · C/C++ · JavaScript · Node.js · GTK 4 · Libadwaita · Linux
+
+## Objetivo
+
+Desenvolver ferramentas úteis, compartilhar conhecimento e contribuir com o ecossistema open source.
+
+---
+
+**Fand-labs** · Open Source Projects
